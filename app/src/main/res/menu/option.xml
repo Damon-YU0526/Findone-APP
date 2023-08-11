@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="Home"
+        android:id="@+id/Home"
+        android:icon="@mipmap/home"
+        app:showAsAction="always"/>
+    <item android:title="HomeFriend"
+        android:id="@+id/HomeFriend"/>
+    <item android:title="AddFriends"
+        android:id="@+id/AddFriends"/>
+    <item android:title="Exit"
+        android:id="@+id/Exit"/>
+</menu>
